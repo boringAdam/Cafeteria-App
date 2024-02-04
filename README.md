@@ -83,10 +83,10 @@ npm install
 npm run dev
 ```
 
-The Cafeteria App should now be accessible at http://localhost
-The database is accessible with phpmyadmin configuration at http://localhost:8001
-DB_USERNAME=sail
-DB_PASSWORD=password
+## Access
+- The Cafeteria App should now be accessible at http://localhost
+- The database is accessible with phpmyadmin configuration at http://localhost:8001
+- DB_USERNAME=sail DB_PASSWORD=password
 
 ## License
 
